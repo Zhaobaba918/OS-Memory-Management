@@ -48,7 +48,7 @@ TJ OS Crouse Project
 
 - 双击`memoryManagement.exe`即可打开项目的可执行文件,打开后界面如下图所示
 
-  <img src="H:\Learning\20-21-2\OS\07-王老师OS课程小项目\内存管理\1951459_赵子昱_内存管理\img\界面.jpg" style="zoom: 67%;" />
+  <img src=".\img\界面.jpg" style="zoom: 67%;" />
 
 
 - 进行模拟前首先要选择一种算法
