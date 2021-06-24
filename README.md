@@ -57,19 +57,19 @@ TJ OS Crouse Project
 
 - 接下来点击**下一步**进行作业调度
 
-<img src="H:\Learning\20-21-2\OS\07-王老师OS课程小项目\内存管理\1951459_赵子昱_内存管理\img\下一步.jpg" style="zoom:67%;" />
+<img src=".\img\下一步.jpg" style="zoom:67%;" />
 
 - 右侧的模拟内存会显示每次分配和回收后的空闲分区链的情况*(不同作业的颜色不同, 以区分不同作业在内存中的位置分布情况)*
 
-<img src="H:\Learning\20-21-2\OS\07-王老师OS课程小项目\内存管理\1951459_赵子昱_内存管理\img\内存.jpg" style="zoom:67%;" />
+<img src=".\img\内存.jpg" style="zoom:67%;" />
 
 - 下方的日志信息会显示作业*申请/释放*等信息
 
-  <img src="H:\Learning\20-21-2\OS\07-王老师OS课程小项目\内存管理\1951459_赵子昱_内存管理\img\日志.jpg" style="zoom: 67%;" />
+  <img src=".\img\日志.jpg" style="zoom: 67%;" />
 
 - 点击**清空内存**会清空内存中的作业以及日志信息全部内容，可再次进行模拟
 
-  <img src="H:\Learning\20-21-2\OS\07-王老师OS课程小项目\内存管理\1951459_赵子昱_内存管理\img\清空内存.jpg" style="zoom:67%;" />
+  <img src=".\img\清空内存.jpg" style="zoom:67%;" />
 
 ## 系统分析
 
